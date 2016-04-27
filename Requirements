@@ -1,0 +1,15 @@
+This is the Inital draft for requirements and use cases.
+
+Here are some of the open problem statements in the form of user stories which we are trying to solve, define the product and its scope.
+
+As an event manager I should be able to create an invitation and invite people through their email IDs alone
+If it is a ticketed event,
+As an event manager, I should be able to mandate payment when participants RSVP
+As an event manager, I should be able to provide at least one method to accept payment e.g. Paypal
+As an event manager, I should be able to design the ticket which participants can print or download to their phone and bring to the venue
+
+As an event manager, I should be able to control if the event is private (invitees cannot invite their friends)
+As an event manager I should be able to hide participants email IDs to be visible to all the participants
+As a participant, I should be able to save the e-ticket to my phone, email or print
+As a participant, I should be able to add the event to my calander
+As a participant, I should be able to share public events with other friends on Facebook or email IDs
